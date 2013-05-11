@@ -16,11 +16,14 @@ To create a new Symfony application using this distribution, get a copy of
 
 * no AcmeDemonBundle;
 * empty (blank) favicons;
-* using twig without extensions;
 * using PHP 5.3.17+;
-* not using Swiftmailer;
 * no requirement tests;
-* intercepting redirection in dev environment.
+* intercepting redirection in dev environment;
+* dependencies removed:
+  * JMS security extra bundle;
+  * JMS DI extra bundle;
+  * Twig extensions;
+  * Swiftmailer.
 
 ## Further documentation
 
