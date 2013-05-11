@@ -1,3 +1,9 @@
+# LICENSE
+
+License for the Symfony Empty Edition distribution.
+
+## The MIT license
+
 Copyright (c) 2004-2013 Fabien Potencier
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
